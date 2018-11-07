@@ -20,7 +20,7 @@ Covers all things UI related. Efforts are centered around Kubernetes Dashboard: 
 The Chairs of the SIG run operations and processes governing the SIG.
 
 * Dan Romlein (**[@danielromlein](https://github.com/danielromlein)**), Google
-* Sebastian Florek (**[@floreks](https://github.com/floreks)**), Fujitsu
+* Sebastian Florek (**[@floreks](https://github.com/floreks)**), Loodse
 
 ## Contact
 * [Slack](https://kubernetes.slack.com/messages/sig-ui)
